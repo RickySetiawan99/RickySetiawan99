@@ -1,43 +1,177 @@
-# Hi there, I'm Ricky Setiawan! 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/iOS_Developer-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minimalist_Design-E5E5E5?style=for-the-badge&logo=porsche&logoColor=black" />
-</p>
+# 🚀 FULLSTACK DEVELOPER | MOBILE ENGINEER
 
-### 📱 About Me
-Developer aplikasi yang berfokus pada ekosistem Apple dengan sentuhan estetika minimalis. Selain menulis baris kode dalam Swift, saya memiliki ketertarikan mendalam pada perencanaan finansial dan desain visual yang bersih.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Laravel+Developer;Mobile+%26+Web+Engineer;iOS+Build+%26+Deployment;Backend+API+Enthusiast;Always+Learning+New+Things" />
 
-- 🔭 **Sedang Mengerjakan:** Project rilis aplikasi iOS untuk tim korporat.
-- 🎨 **Estetika:** Penggemar desain *luxury automotive* (Porsche/Mercedes) & tipografi sans-serif.
-- 📈 **Investasi:** Mengelola portofolio properti dan instrumen emas secara disiplin.
-- ⚡ **Prinsip:** "Clean code is like a luxury car; it looks simple on the outside, but powerful and organized on the inside."
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20Profile&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a8a,100:38bdf8&fontColor=ffffff" />
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-| Mobile Dev | UI/UX & Design | Finance Tools |
-| :--- | :--- | :--- |
-| **Swift & Xcode** | Clean & Minimalist | Property Planning |
-| **UIKit/SwiftUI** | Studio Aesthetics | Gold Investment Tracking |
-| **Git & GitHub** | Luxury Branding Style | Tax Compliance (NPWP/Coretax) |
+# 👨‍💻 About Me
+
+```yaml
+Name: Your Name
+Location: Indonesia 🇮🇩
+Focus:
+  - Flutter Development
+  - Laravel Backend
+  - REST API Integration
+  - iOS Build & Distribution
+  - PostgreSQL & System Architecture
+
+Currently Building:
+  - Village Complaint System (Desaku)
+  - Dashboard & Management Systems
+  - Modern Mobile Applications
+
+Hobbies:
+  - Coding
+  - UI/UX Exploration
+  - Automotive Enthusiast
+  - Technology Research
+```
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickySetiawan99&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Ricky's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickySetiawan99&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-</p>
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 
 ---
 
-### 📫 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://linkedin.com/in/username-anda](https://www.linkedin.com/in/ricky-setiawan-a5a933140))
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />]([https://instagram.com/username-anda](https://www.instagram.com/_ickyyy_16/))
+## 🌐 Backend & Web
+
+<img src="https://skillicons.dev/icons?i=laravel,php,postgres,mysql,nodejs" />
 
 ---
-<p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
-</p>
+
+## ⚙️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,xcode,androidstudio,postman,figma" />
+
+</div>
+
+---
+
+# 🧩 Featured Project
+
+## 🏡 Desaku — Village Complaint Platform
+
+Modern digital complaint system for villages with features:
+
+- 📍 Geo-location reporting
+- 📊 Public transparency dashboard
+- 📨 WhatsApp & Email notifications
+- 📄 Export PDF & Excel
+- 🔐 NIK validation
+- 👥 Multi-role management
+- 🧾 Audit trail system
+
+---
+
+# 🔥 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🚀 Badges
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+# 🌟 Currently Learning
+
+- Advanced Flutter Architecture
+- CI/CD Mobile Deployment
+- Clean Architecture
+- iOS Distribution Workflow
+- Performance Optimization
+
+---
+
+# ☕ Random Dev Quote
+
+<div align="center">
+
+> “First, solve the problem. Then, write the code.”
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,50:1e3a8a,100:0f172a" />
+
+### ⚡ Thanks for visiting my profile ⚡
+
+</div>
