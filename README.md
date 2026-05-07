@@ -30,7 +30,6 @@ Focus:
 Currently Building:
   - Desaku — Village Complaint Platform
   - MedLink Gateway (Odoo 18 Integration)
-  - Home Sweet Loan — Loan Management App
   - Simon Bijak — Journal & COA API System
 
 Expertise:
@@ -98,18 +97,6 @@ Hobbies:
 
 ---
 
-## 🏦 Home Sweet Loan — Loan Management App
-
-> Modern loan management with Google authentication
-
-- 🔐 Google Socialite OAuth integration
-- 🌙 Persistent dark mode implementation
-- 📊 Dashboard with DataTables bulk actions
-- 🎨 Custom brand UI with modern aesthetics
-- ⚡ Modular & reusable global DataTables helper
-
----
-
 ## 🧾 Simon Bijak — Journal & COA API System
 
 > Financial journal management with duplicate prevention
@@ -137,9 +124,9 @@ Hobbies:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RickySetiawan99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=RickySetiawan99" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickySetiawan99&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickySetiawan99&theme=tokyonight" />
 
 </div>
 
