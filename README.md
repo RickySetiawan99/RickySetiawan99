@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 RICKY SETIAWAN — FULLSTACK DEVELOPER
+# 🚀 FULLSTACK DEVELOPER
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer;Laravel+Backend+Engineer;Mobile+%26+Web+Fullstack;iOS+Build+%26+Deployment;Odoo+Module+Developer;REST+API+Architect;Always+Learning+New+Things" />
 
