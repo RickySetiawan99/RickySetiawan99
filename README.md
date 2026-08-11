@@ -75,46 +75,113 @@ Building resilient systems and exploring next-gen tooling:
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
-### 🏡 Desaku — Digital Village Complaint Platform
-> *Modern civic complaint management system empowering Indonesian village administration with transparency and real-time tracking.*
+### 🏡 DesaKu — Layanan Pengaduan Masyarakat
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%94%92%20PRIVATE-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPERATIONAL-059669?style=flat-square" />
+</p>
 
-**Key Highlights:**
-- **Geolocation & Mapping:** Accurate complaint location pinning with interactive visual reporting.
-- **Security & Integrity:** NIK verification system with multi-role access control (Admin, Staff, Citizen) and complete audit trail.
-- **Automated Notifications:** Real-time WhatsApp & Email status updates on complaint progression.
-- **Reporting Engine:** High-performance PDF & Excel export pipelines for public accountability.
+> *"Suara Warga, Kemajuan Desa."*
+
+Sistem informasi aspirasi dan pengaduan masyarakat desa berbasis transparansi publik. Dilengkapi dengan Galeri Solusi, Live Ticket Tracking, NIK validation, WhatsApp & Email notifications, serta Panel Manajemen Administrasi Desa.
 
 `Flutter` `Laravel` `PostgreSQL` `WhatsApp API` `GeoJSON`
 
 </td>
+<td width="50%" valign="top">
+
+### ⚡ SmartHome Command Center (VibeHommy)
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%94%92%20PRIVATE-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPERATIONAL-059669?style=flat-square" />
+</p>
+
+> *"SmartHome. Command Center."*
+
+Obsidian control center — a dark command room pulsing with ambient light and live sensor data. Pantau status perangkat, kelola ruangan, dan atur otomasi pintar secara real-time.
+
+`React` `Node.js` `IoT Sensors` `WebSockets` `TailwindCSS`
+
+</td>
 </tr>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
-### 🔗 MedLink Gateway — Odoo 18 Enterprise Integration
-> *Medical device gateway platform connecting Elitech hardware monitoring to Odoo 18 ERP.*
+### 🧠 Learning Tracker OS
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%94%92%20PRIVATE-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPERATIONAL-059669?style=flat-square" />
+</p>
 
-**Key Highlights:**
-- **Gateway Synchronization:** High-throughput API gateway syncing device metrics directly with Odoo backend.
-- **Migration Architecture:** Seamless containerized upgrade pipeline from Odoo 16 to Odoo 18 using Docker.
-- **Nested Pagination REST API:** Optimized data delivery layer preventing payload bottlenecks during bulk sync.
+> *"Belajar lebih fokus, progresnya kelihatan."*
+
+Learning Operating System untuk merencanakan target, membangun habit belajar berkelanjutan, dan melacak progres pembelajaran secara terstruktur & visual.
+
+`Laravel` `React` `PostgreSQL` `TailwindCSS` `Chart.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 Budgeting APP - HSL
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%94%92%20PRIVATE-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPERATIONAL-059669?style=flat-square" />
+</p>
+
+> *"Kelola Anggaran Tanpa Masalah"*
+
+Aplikasi manajemen anggaran personal cerdas untuk mengelola arus kas pendapatan, pengeluaran harian, serta alokasi tabungan untuk hunian & finansial masa depan.
+
+`Laravel` `Flutter` `MySQL` `REST API` `Financial Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Sistem Informasi Sekolah (SDN 99 Masa Depan)
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%94%92%20PRIVATE-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPERATIONAL-059669?style=flat-square" />
+</p>
+
+> *"Belajar Seru, Bermain Cerdas"*
+
+Portal sekolah terpadu yang menyajikan informasi resmi akademik, profil sekolah, berita pengumuman terbaru, galeri kegiatan siswa, serta integrasi admin sekolah.
+
+`Laravel` `MySQL` `TailwindCSS` `Multi-Role Auth`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 MedLink Gateway — Odoo 18 Integration
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%94%92%20PRIVATE-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPERATIONAL-059669?style=flat-square" />
+</p>
+
+> *"Elitech Medical Device Gateway Management"*
+
+Platform integrasi gateway perangkat medis Elitech ke Odoo 18 ERP. Gateway synchronization dengan API eksternal, Docker-based deployment (Odoo 16 → 18 migration), & REST API.
 
 `Odoo 18` `Python` `Docker` `REST API` `XML-RPC`
 
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top">
+<td width="100%" colspan="2" valign="top">
 
-### 🧾 Simon Bijak — Financial Journal & COA API System
-> *High-precision financial journal tracking system with dynamic Chart of Accounts (COA) mapping.*
+### 🧾 Simon Bijak — Journal & COA API System
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%94%92%20PRIVATE-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPERATIONAL-059669?style=flat-square" />
+</p>
 
-**Key Highlights:**
-- **Algolia Search Engine:** Instant lookup across thousands of General Ledger (GL) entries and working units.
-- **Duplicate Prevention:** Cryptographic checksum validation preventing double-entry journal mistakes.
-- **Developer Workflows:** Instant cURL command generator for rapid API debugging and integration testing.
+> *"Financial Journal Management with Duplicate Prevention"*
+
+Sistem manajemen jurnal keuangan dengan mapping COA (Chart of Accounts), integrasi pencarian cepat Algolia, cryptographic duplicate entry prevention, & cURL API builder.
 
 `Laravel` `Algolia` `PostgreSQL` `RESTful API` `Financial Tech`
 
