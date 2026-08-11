@@ -218,9 +218,26 @@ Sistem manajemen jurnal keuangan dengan mapping COA (Chart of Accounts), integra
 
 <br/>
 
-### 🏆 Engineering Achievements
+### 🏆 Engineering Capabilities & Language Distribution
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RickySetiawan99&theme=tokyonight&no-frame=true&row=1&column=6" />
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RickySetiawan99&theme=tokyonight" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickySetiawan99&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievement-Mobile%20Architect%20(Flutter%20%26%20iOS)-0f172a?style=for-the-badge&labelColor=1e293b&color=38bdf8" />
+  <img src="https://img.shields.io/badge/Achievement-Laravel%20Backend%20Engineer-0f172a?style=for-the-badge&labelColor=1e293b&color=818cf8" />
+  <img src="https://img.shields.io/badge/Achievement-Odoo%20v16%2Fv18%20Specialist-0f172a?style=for-the-badge&labelColor=1e293b&color=34d399" />
+</p>
 
 </div>
 
